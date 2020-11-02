@@ -1,0 +1,24 @@
+.Chips {
+	background: url('https://media4.giphy.com/media/xT39Dl1AHieEwAobq8/giphy.gif?cid=ecf05e47i4sn2jq9xwkd1nu28iie7y0n20upxejwq6xnyqui&rid=giphy.gif');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin: 0;
+	height: 95vh;
+	width: 99vw;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 2.7rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+
+.Chips a {
+	text-decoration: none;
+	color: crimson;
+}
